@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(to right, #e66465, #9198e5);
+    height: 100%;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    margin-left: 40px
+}
+
+#cajaCalculadora {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    opacity: 0.7;
+    border-radius: 10px;
+}
+
+#botonPromedio {
+    color: white;
+    background-color: #8C1007;
+    opacity: none;
+    padding: 5px;
+    border-color: white;
+    border-color: #B12C00;
+}
+
+#botonBorrar {
+    color: white;
+    background-color: #FF9B00;
+    border-radius: 5px;
+    padding: 5px;
+    border-color: #D96F32;
+}
